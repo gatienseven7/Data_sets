@@ -8,7 +8,7 @@ Ce projet consiste à extraire, analyser et visualiser des données issues de St
 
 L'objectif général est d'analyser, interpréter et prédire des informations en se basant sur chaque fichier csv utilisé.
 
-- L'objectif du deuxième fichier csv était d'explorer la popularité des sujets (tags) et d'étudier la corrélation entre la fréquence d'un tag et le nombre moyen de réponses.
+- L'objectif principal du deuxième fichier csv était d'explorer la popularité des sujets (tags) et d'étudier la corrélation entre la fréquence d'un tag et le nombre moyen de réponses.
 
 ## Technologies utilisées
 
